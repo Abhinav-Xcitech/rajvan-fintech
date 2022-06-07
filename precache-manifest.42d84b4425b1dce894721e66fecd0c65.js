@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rajvan-fintech/static/js/runtime~main.f4486894.js"
   },
   {
-    "revision": "dfad2a819ae7d1aa6a4611d74611590e",
+    "revision": "d3b96030a5f3ff4992757f78ceebcbf8",
     "url": "/rajvan-fintech/index.html"
   }
 ];

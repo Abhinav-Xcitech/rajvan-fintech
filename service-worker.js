@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/rajvan-fintech/precache-manifest.8b7bd79e957b578caee394325a6e9b1f.js"
+  "/rajvan-fintech/precache-manifest.42d84b4425b1dce894721e66fecd0c65.js"
 );
 
 workbox.clientsClaim();
