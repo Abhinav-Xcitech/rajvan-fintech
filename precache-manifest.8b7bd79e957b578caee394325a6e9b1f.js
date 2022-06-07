@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "08c37c984c1fb644b14a",
+    "revision": "9b56898f542f7e5f205f",
     "url": "/rajvan-fintech/static/css/main.b2f7343c.chunk.css"
   },
   {
-    "revision": "08c37c984c1fb644b14a",
-    "url": "/rajvan-fintech/static/js/main.08c37c98.chunk.js"
+    "revision": "9b56898f542f7e5f205f",
+    "url": "/rajvan-fintech/static/js/main.9b56898f.chunk.js"
   },
   {
     "revision": "8c98aab82769540efb62",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/rajvan-fintech/static/js/runtime~main.f4486894.js"
   },
   {
-    "revision": "21d88ba5d8ed598dd25e0c0cbfa8e182",
+    "revision": "dfad2a819ae7d1aa6a4611d74611590e",
     "url": "/rajvan-fintech/index.html"
   }
 ];
