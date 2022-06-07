@@ -1,0 +1,24 @@
+.wrapper {
+    width: 90vw;
+    height: 100vh;
+    border:4px solid #ccc;
+    position: relative;
+}
+
+.center{
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.blob { 
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml;utf8, %3Csvg width=%22100%25%22 height=%22100%25%22 viewBox=%220 0 1000 1000%22 xmlns=%22http:%2F%2Fwww.w3.org%2F2000%2Fsvg%22 %3E %3Cdefs%3E %3ClinearGradient id=%22linearGradientId%22 gradientTransform=%22rotate(-45 0.5 0.5)%22%3E %3Cstop offset=%220%25%22 stop-color=%22%2352ACFF%22 %2F%3E %3Cstop offset=%22100%25%22 stop-color=%22%23ffe32c%22 %2F%3E %3C%2FlinearGradient%3E %3CclipPath id=%22shape%22%3E %3Cpath fill=%22currentColor%22 d=%22M625%2C716.5Q250%2C933%2C250%2C500Q250%2C67%2C625%2C283.5Q1000%2C500%2C625%2C716.5Z%22%3E%3C%2Fpath%3E %3C%2FclipPath%3E %3C%2Fdefs%3E %3Cg clip-path=%22url(%23shape)%22%3E %3Cpath fill=%22url(%23linearGradientId)%22 d=%22M625%2C716.5Q250%2C933%2C250%2C500Q250%2C67%2C625%2C283.5Q1000%2C500%2C625%2C716.5Z%22 %2F%3E %3C%2Fg%3E %3C%2Fsvg%3E");
+  }
+  
