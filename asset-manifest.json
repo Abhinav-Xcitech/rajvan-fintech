@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.b2f7343c.chunk.css",
-  "main.js": "/static/js/main.d523b6db.chunk.js",
-  "main.js.map": "/static/js/main.d523b6db.chunk.js.map",
-  "static/js/1.8c98aab8.chunk.js": "/static/js/1.8c98aab8.chunk.js",
-  "static/js/1.8c98aab8.chunk.js.map": "/static/js/1.8c98aab8.chunk.js.map",
-  "static/js/2.f8d3cc5a.chunk.js": "/static/js/2.f8d3cc5a.chunk.js",
-  "static/js/2.f8d3cc5a.chunk.js.map": "/static/js/2.f8d3cc5a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.145d3179.js",
-  "runtime~main.js.map": "/static/js/runtime~main.145d3179.js.map",
-  "static/css/main.b2f7343c.chunk.css.map": "/static/css/main.b2f7343c.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.35968915d947501e75f551e80c51dc06.js": "/precache-manifest.35968915d947501e75f551e80c51dc06.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/rajvan-fintech/static/css/main.b2f7343c.chunk.css",
+  "main.js": "/rajvan-fintech/static/js/main.d523b6db.chunk.js",
+  "main.js.map": "/rajvan-fintech/static/js/main.d523b6db.chunk.js.map",
+  "static/js/1.8c98aab8.chunk.js": "/rajvan-fintech/static/js/1.8c98aab8.chunk.js",
+  "static/js/1.8c98aab8.chunk.js.map": "/rajvan-fintech/static/js/1.8c98aab8.chunk.js.map",
+  "static/js/2.f8d3cc5a.chunk.js": "/rajvan-fintech/static/js/2.f8d3cc5a.chunk.js",
+  "static/js/2.f8d3cc5a.chunk.js.map": "/rajvan-fintech/static/js/2.f8d3cc5a.chunk.js.map",
+  "runtime~main.js": "/rajvan-fintech/static/js/runtime~main.f4486894.js",
+  "runtime~main.js.map": "/rajvan-fintech/static/js/runtime~main.f4486894.js.map",
+  "static/css/main.b2f7343c.chunk.css.map": "/rajvan-fintech/static/css/main.b2f7343c.chunk.css.map",
+  "index.html": "/rajvan-fintech/index.html",
+  "precache-manifest.f57307c6a8f0da4796e49c013a3627f2.js": "/rajvan-fintech/precache-manifest.f57307c6a8f0da4796e49c013a3627f2.js",
+  "service-worker.js": "/rajvan-fintech/service-worker.js"
 }
